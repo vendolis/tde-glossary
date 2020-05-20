@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<martif xml:lang="en" type="TBX">
+  <text>
+    <body>
+      <termEntry>
+        <descrip type="conceptId">1TAMGUQG1Ow9s0CwuP4cP3Ql5</descrip>
+        <langSet xml:lang="de">
+          <tig>
+            <term>GermanWord2</term>
+            <termNote type="termId">bZKFTbmCgsO2Ki4gZlgHxXwE</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="preferred">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">vendolis</termNote>
+            <termNote type="createdAt">1589934457523</termNote>
+            <termNote type="lastModifiedBy">vendolis</termNote>
+            <termNote type="lastModifiedAt">1589934457523</termNote>
+          </tig>
+          <tig>
+            <term>GermanWord2a</term>
+            <termNote type="termId">Ympx818r08m8Y9i0Ct30v3LH7</termNote>
+            <termNote type="forbidden">true</termNote>
+            <termNote type="preferred">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">vendolis</termNote>
+            <termNote type="createdAt">1589934472176</termNote>
+            <termNote type="lastModifiedBy">vendolis</termNote>
+            <termNote type="lastModifiedAt">1589934652489</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>EnglischWord2</term>
+            <termNote type="termId">nhSYXxY9w8O2f94sqcMWXtJy</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="preferred">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">vendolis</termNote>
+            <termNote type="createdAt">1589934457668</termNote>
+            <termNote type="lastModifiedBy">vendolis</termNote>
+            <termNote type="lastModifiedAt">1589934457668</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">40VwSkcU0KDbYehgxy1MirYb6</descrip>
+        <langSet xml:lang="de">
+          <tig>
+            <term>GermanWord3</term>
+            <termNote type="termId">qqNaq0sd1A1mo0412y48HDZxe</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="preferred">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">vendolis</termNote>
+            <termNote type="createdAt">1589934491497</termNote>
+            <termNote type="lastModifiedBy">vendolis</termNote>
+            <termNote type="lastModifiedAt">1589934491497</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>EnglischWord3</term>
+            <termNote type="termId">rEC3C0E3xbC4KW9gstwl51uO0</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="preferred">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">vendolis</termNote>
+            <termNote type="createdAt">1589934491630</termNote>
+            <termNote type="lastModifiedBy">vendolis</termNote>
+            <termNote type="lastModifiedAt">1589934491630</termNote>
+          </tig>
+          <tig>
+            <term>EnglischWord3a</term>
+            <termNote type="termId">Tn9f23HQw342hj4YVgMdTQE9</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="preferred">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">vendolis</termNote>
+            <termNote type="createdAt">1589934503495</termNote>
+            <termNote type="lastModifiedBy">vendolis</termNote>
+            <termNote type="lastModifiedAt">1589934503495</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">sRumflDc0A18URjwLT1Yg0l21</descrip>
+        <descrip type="conceptDefinition">Concept Definition</descrip>
+        <descrip type="conceptDomain">TDE</descrip>
+        <descrip type="conceptNote">Concept Note</descrip>
+        <descrip type="conceptSubdomain">General,Name,Skills</descrip>
+        <descrip type="conceptUrl">ConceptLocationField</descrip>
+        <langSet xml:lang="de">
+          <tig>
+            <term>GermanWord1</term>
+            <termNote type="termId">ozhlSd3sMj04GW98Osw894U80</termNote>
+            <note>Word Note</note>
+            <termNote type="partOfSpeech">NOUN</termNote>
+            <termNote type="grammaticalGender">MASCULINE</termNote>
+            <termNote type="grammaticalNumber">SINGULAR</termNote>
+            <termNote type="usageNote">Word Usage</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="preferred">true</termNote>
+            <termNote type="exactMatch">true</termNote>
+            <termNote type="status">New</termNote>
+            <termNote type="caseSensitive">true</termNote>
+            <termNote type="createdBy">vendolis</termNote>
+            <termNote type="createdAt">1589934425367</termNote>
+            <termNote type="lastModifiedBy">vendolis</termNote>
+            <termNote type="lastModifiedAt">1589934593241</termNote>
+            <termNote type="shortTranslation">Short Translation Example</termNote>
+            <termNote type="termType">FULL_FORM</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>EnglischWord1</term>
+            <termNote type="termId">IqPqaR4vM4520i8gDkwXTHU61</termNote>
+            <note>Englisch Word Note</note>
+            <termNote type="partOfSpeech">VERB</termNote>
+            <termNote type="grammaticalGender">FEMININE</termNote>
+            <termNote type="grammaticalNumber">UNCOUNTABLE</termNote>
+            <termNote type="usageNote">English Word Usagef</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="preferred">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">true</termNote>
+            <termNote type="createdBy">vendolis</termNote>
+            <termNote type="createdAt">1589934425500</termNote>
+            <termNote type="lastModifiedBy">vendolis</termNote>
+            <termNote type="lastModifiedAt">1589934645409</termNote>
+            <termNote type="shortTranslation">Englisch Short Translation</termNote>
+            <termNote type="termType">SHORT_FORM</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martif>
